@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="GemInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsBadTypeArgumentType" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsBadTypeVariableDefaultType" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsConflictingTypeVariableCount" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsConflictingTypeVariableVariance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsCyclicClassModuleAliasDeclaration" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsDuplicateDeclarations" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsDuplicateKeywordParameter" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsInconsistentClassModuleAlias" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsIncorrectInclusionCall" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsIncorrectTypeArgumentCount" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsIncorrectTypeArgumentVariance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsInvalidMethodOverload" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsInvalidTypeArgumentUsage" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsLiteralClassReferenced" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsMissingTypeSignature" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsModuleUsedAsSuperclass" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsSimplifiableBooleanUnion" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnconventionalInterfaceName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnconventionalTypeAliasName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnconventionalTypeVariableName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnconventionalUseAliasName" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnnecessaryParentheses" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="RbsUnnecessaryQualifier" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="RbsUnusedInterface" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnusedTypeAlias" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnusedTypeVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RbsUnusedUseClause" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyCaseWithoutElseBlockInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyLiteralArrayInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyMismatchedArgumentType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyMismatchedReturnType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyMismatchedVariableType" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyNilAnalysis" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnnecessaryReturnStatement" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnnecessaryReturnValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RubyUnusedLocalVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

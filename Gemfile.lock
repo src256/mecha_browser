@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    mecha_browser (0.1.0)
+      web_loader
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.25.5)
+    rake (13.3.0)
+    web_loader (1.7.0)
+
+PLATFORMS
+  arm64-darwin-24
+
+DEPENDENCIES
+  mecha_browser!
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.4.19

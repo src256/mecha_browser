@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "mecha_browser"
+
+MechaBrowser::Command.run(ARGV)
